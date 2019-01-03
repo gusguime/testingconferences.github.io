@@ -1910,7 +1910,7 @@
 - name: TestingUY
   location: Montevideo, Uruguay
   dates: "April 13-14, 2015"
-  url: http://www.testing.uy/
+  url: https://testinguy.org/
   twitter: testingUY
 
 - name: STPCon Spring 2015
@@ -1940,7 +1940,7 @@
 - name: TestingUY
   location: Montevideo, Uruguay
   dates: "April 3, 2014"
-  url: http://www.testing.uy/
+  url: https://testinguy.org/
   twitter: testingUY
 
 - name: Workshop on Teach Software Testing (WTST) 13
