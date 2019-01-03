@@ -127,6 +127,12 @@
   twitter: TechWell
   status: CFP is Open
 
+- name: TestingUY 2019
+  location: Montevideo, Uruguay
+  dates: "May 13-14, 2019"
+  url: testinguy.org//
+  twitter: testingUY
+  
 - name: WeTest.Athens 2019
   location: Athens, Greece, GR
   dates: "May 17, 2019"
