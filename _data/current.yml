@@ -133,6 +133,12 @@
   twitter: WetestA
   status: Registration is open
 
+- name: TestingUY 2019
+  location: Montevideo, Uruguay
+  dates: "May 13-14, 2019"
+  url: http://testinguy.org
+  twitter: testingUY
+  
 - name: TestBash Netherlands 2019
   location: Utrecht, NL
   dates: "May 23-24, 2019"
